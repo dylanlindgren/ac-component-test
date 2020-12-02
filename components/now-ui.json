@@ -1,0 +1,24 @@
+{
+	"components": {
+	    "x-180672-snc-ac-component-test": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Adaptive Card",
+				"icon": "document-outline",
+				"description": "An adaptive card",
+				"category": "primitives"
+			},
+			"properties": [
+				{
+					"defaultValue": "1",
+					"description": "Which adaptive card to show (1, 2, or 3)",
+					"label": "Type",
+					"name": "type",
+					"readOnly": false
+				}
+			]
+	    }
+	},
+	"scopeName": "x_180672_testac"
+}
