@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type" label="Type" language="en" table="var__m_sys_ux_lib_component_attr_a3b60646fcf11462d4f0f2f0672dfe47">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <help/>
+            <hint/>
+            <label>Type</label>
+            <language>en</language>
+            <name>var__m_sys_ux_lib_component_attr_a3b60646fcf11462d4f0f2f0672dfe47</name>
+            <plural>Type</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dylan.lindgren</sys_created_by>
+            <sys_created_on>2020-12-02 05:11:37</sys_created_on>
+            <sys_id>7c5f32c21b702010579940c6cc4bcbb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type</sys_name>
+            <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_ux_lib_component_attr_a3b60646fcf11462d4f0f2f0672dfe47_type_en</sys_update_name>
+            <sys_updated_by>dylan.lindgren</sys_updated_by>
+            <sys_updated_on>2020-12-02 05:11:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

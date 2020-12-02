@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script/>
+        <source_script_name>snc-ac-component-test</source_script_name>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>dylan.lindgren</sys_created_by>
+        <sys_created_on>2020-12-02 04:21:34</sys_created_on>
+        <sys_id>a3b60646fcf11462d4f0f2f0672dfe47</sys_id>
+        <sys_mod_count>446358</sys_mod_count>
+        <sys_name>x-180672-snc-ac-component-test</sys_name>
+        <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+        <sys_update_name>sys_ux_lib_component_a3b60646fcf11462d4f0f2f0672dfe47</sys_update_name>
+        <sys_updated_by>dylan.lindgren</sys_updated_by>
+        <sys_updated_on>2020-12-02 05:11:36</sys_updated_on>
+        <tag>x-180672-snc-ac-component-test</tag>
+    </sys_ux_lib_component>
+</record_update>
