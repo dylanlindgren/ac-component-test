@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckihtlddwtaaaaaaccddghhaddcbbvaafsk",
+  "elementLabel" : "Adaptive Card",
+  "propertyValues" : {
+    "type" : "1"
+  },
+  "slot" : "ckihtl3wu00033g7apos4gmek",
+  "definition" : {
+    "id" : "45b13c1355ce07489a0aa75e467d9dec",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckihtlhhdsaaaaaahhddghhaaawuufggsu",
+  "elementLabel" : "Adaptive Card",
+  "propertyValues" : {
+    "type" : "2"
+  },
+  "slot" : "ckihtl7ds00083g7adg7k330f",
+  "definition" : {
+    "id" : "45b13c1355ce07489a0aa75e467d9dec",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"column","id":"ckihtl3wu00043g7ao3p3at29","rows":[{"type":"row","id":"ckihtl3wu00053g7ai466rlgx","slotName":"ckihtl3wu00033g7apos4gmek"},{"id":"ckihtl7dt00093g7aywyf9x3m","slotName":"ckihtl7ds00083g7adg7k330f","type":"row"}],"size":"12"},
+    "items" : null,
+    "rules" : null,
+    "styles" : null
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Test for AC</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:42:49</sys_created_on>
+        <sys_id>f6d9cee81b412010c67bed3abc4bcb93</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test for AC</sys_name>
+        <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+        <sys_update_name>sys_ux_macroponent_f6d9cee81b412010c67bed3abc4bcb93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:43:11</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test AC">864d26421b302010579940c6cc4bcbee</application>
+        <file_path/>
+        <instance_id>0cb35e65dbd23b404d2bac44d496190e</instance_id>
+        <instance_name>dev88847</instance_name>
+        <name>sys_ux_macroponent_f6d9cee81b412010c67bed3abc4bcb93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><component_dependencies/><composition>[ {
+  "elementId" : "ckihtlddwtaaaaaaccddghhaddcbbvaafsk",
+  "elementLabel" : "Adaptive Card",
+  "propertyValues" : {
+    "type" : "1"
+  },
+  "slot" : "ckihtl3wu00033g7apos4gmek",
+  "definition" : {
+    "id" : "45b13c1355ce07489a0aa75e467d9dec",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckihtlhhdsaaaaaahhddghhaaawuufggsu",
+  "elementLabel" : "Adaptive Card",
+  "propertyValues" : {
+    "type" : "2"
+  },
+  "slot" : "ckihtl7ds00083g7adg7k330f",
+  "definition" : {
+    "id" : "45b13c1355ce07489a0aa75e467d9dec",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+} ]</composition><data/><events/><extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends><interactions/><layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"column","id":"ckihtl3wu00043g7ao3p3at29","rows":[{"type":"row","id":"ckihtl3wu00053g7ai466rlgx","slotName":"ckihtl3wu00033g7apos4gmek"},{"id":"ckihtl7dt00093g7aywyf9x3m","slotName":"ckihtl7ds00083g7adg7k330f","type":"row"}],"size":"12"},
+    "items" : null,
+    "rules" : null,
+    "styles" : null
+  }
+}</layout><macroponent_dependencies/><name>Test for AC</name><props/><root_component/><root_component_config/><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-09 19:42:49</sys_created_on><sys_id>f6d9cee81b412010c67bed3abc4bcb93</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test for AC</sys_name><sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package><sys_policy/><sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope><sys_update_name>sys_ux_macroponent_f6d9cee81b412010c67bed3abc4bcb93</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-09 19:43:11</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>1995754502</payload_hash>
+        <record_name>Test for AC</record_name>
+        <reverted_from/>
+        <source>96d6e5241b012010c67bed3abc4bcb0a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:43:11</sys_created_on>
+        <sys_id>5cf9c62c1b412010c67bed3abc4bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17649076c780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:43:11</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>94f9c62c6e412010877693b6613b14f8</update_guid>
+        <update_guid_history>94f9c62c6e412010877693b6613b14f8:1995754502,fed9cee8e941201076767e0d6e8d2e94:-1672725219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:49:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>5786220036694d488336fa52ff3b7440</sys_id>
+        <sys_metadata>f6d9cee81b412010c67bed3abc4bcb93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test for AC</sys_name>
+        <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+        <sys_scope_delete display_value="">d17067380e814fa0ae2925d574a8db24</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_f6d9cee81b412010c67bed3abc4bcb93</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_f6d9cee81b412010c67bed3abc4bcb93">5cf9c62c1b412010c67bed3abc4bcbf8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:49:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
