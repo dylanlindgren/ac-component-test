@@ -8,7 +8,7 @@
         <component display_value="now-uxf-page">9c38d25e67a0330075e8ebc172415a21</component>
         <is_root>true</is_root>
         <layout/>
-        <macroponent display_value="Test for AC">5baf3ac21b702010579940c6cc4bcb21</macroponent>
+        <macroponent/>
         <macroponent_config>{
   "label" : ""
 }</macroponent_config>
