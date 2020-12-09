@@ -1,6 +1,5 @@
 {
     "cardTemplate": {
-        "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
         "type": "AdaptiveCard",
         "version": "1.0",
         "speak": "Flight KL0605 to San Fransisco has been delayed.It will not leave until 10:10 AM.",
@@ -61,7 +60,6 @@
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "${underName.name}",
                                 "spacing": "Small",
                                 "wrap": true
                             },
@@ -134,7 +132,6 @@
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "${reservationFor.flightNumber}",
                                 "spacing": "Small",
                                 "wrap": true
                             }
@@ -154,7 +151,6 @@
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "{{TIME(${string(reservationFor.departureTime)})}}",
                                 "color": "Attention",
                                 "weight": "Bolder",
                                 "horizontalAlignment": "Center",
@@ -177,7 +173,6 @@
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "{{TIME(${string(reservationFor.arrivalTime)})}}",
                                 "color": "Attention",
                                 "horizontalAlignment": "Right",
                                 "weight": "Bolder",
@@ -199,13 +194,11 @@
                         "items": [
                             {
                                 "type": "TextBlock",
-                                "text": "${reservationFor.departureAirport.name}",
                                 "isSubtle": true,
                                 "wrap": true
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "${reservationFor.departureAirport.iataCode}",
                                 "size": "ExtraLarge",
                                 "color": "Accent",
                                 "spacing": "None",
@@ -235,14 +228,12 @@
                         "items": [
                             {
                                 "type": "TextBlock",
-                                "text": "${reservationFor.arrivalAirport.name}",
                                 "isSubtle": true,
                                 "horizontalAlignment": "Right",
                                 "wrap": true
                             },
                             {
                                 "type": "TextBlock",
-                                "text": "${reservationFor.arrivalAirport.iataCode}",
                                 "horizontalAlignment": "Right",
                                 "size": "ExtraLarge",
                                 "color": "Accent",
@@ -256,39 +247,31 @@
         ]
     },
     "cardData": {
-        "@context": "http://schema.org",
-        "@type": "FlightReservation",
         "reservationId": "RXJ34P",
         "reservationStatus": "http://schema.org/ReservationConfirmed",
         "passengerPriorityStatus": "Fast Track",
         "passengerSequenceNumber": "ABC123",
         "securityScreening": "TSA PreCheck",
         "underName": {
-            "@type": "Person",
             "name": "Sarah Hum"
         },
         "reservationFor": {
-            "@type": "Flight",
             "flightNumber": "KL605",
             "provider": {
-                "@type": "Airline",
                 "name": "KLM",
                 "iataCode": "KL",
                 "boardingPolicy": "http://schema.org/ZoneBoardingPolicy"
             },
             "seller": {
-                "@type": "Airline",
                 "name": "KLM",
                 "iataCode": "KL"
             },
             "departureAirport": {
-                "@type": "Airport",
                 "name": "Amsterdam Airport",
                 "iataCode": "AMS"
             },
             "departureTime": "2017-03-04T09:20:00-01:00",
             "arrivalAirport": {
-                "@type": "Airport",
                 "name": "San Francisco Airport",
                 "iataCode": "SFO"
             },
