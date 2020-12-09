@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>Test for AC</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:38:58</sys_created_on>
+        <sys_id>eaf88aa81b412010c67bed3abc4bcbec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test for AC</sys_name>
+        <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+        <sys_update_name>sys_ux_macroponent_eaf88aa81b412010c67bed3abc4bcbec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:38:58</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test AC">864d26421b302010579940c6cc4bcbee</application>
+        <file_path/>
+        <instance_id>0cb35e65dbd23b404d2bac44d496190e</instance_id>
+        <instance_name>dev88847</instance_name>
+        <name>sys_ux_macroponent_eaf88aa81b412010c67bed3abc4bcbec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><component_dependencies/><composition>[ ]</composition><data/><events/><extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends><interactions/><layout/><macroponent_dependencies/><name>Test for AC</name><props/><root_component/><root_component_config/><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-09 19:38:58</sys_created_on><sys_id>eaf88aa81b412010c67bed3abc4bcbec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test for AC</sys_name><sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package><sys_policy/><sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope><sys_update_name>sys_ux_macroponent_eaf88aa81b412010c67bed3abc4bcbec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-09 19:38:58</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>-1672725219</payload_hash>
+        <record_name>Test for AC</record_name>
+        <reverted_from/>
+        <source>96d6e5241b012010c67bed3abc4bcb0a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:38:58</sys_created_on>
+        <sys_id>aaf88aa81b412010c67bed3abc4bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17649038dc30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:38:58</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>e2f88aa85d412010be8fd2019f2d78ee</update_guid>
+        <update_guid_history>e2f88aa85d412010be8fd2019f2d78ee:-1672725219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 19:42:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>09404eb5d8fb4ae68a1000466035e2e4</sys_id>
+        <sys_metadata>eaf88aa81b412010c67bed3abc4bcbec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test for AC</sys_name>
+        <sys_package display_value="Test AC" source="x_180672_testac">864d26421b302010579940c6cc4bcbee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test AC">864d26421b302010579940c6cc4bcbee</sys_scope>
+        <sys_scope_delete display_value="">d17067380e814fa0ae2925d574a8db24</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_eaf88aa81b412010c67bed3abc4bcbec</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_eaf88aa81b412010c67bed3abc4bcbec">aaf88aa81b412010c67bed3abc4bcbee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 19:42:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
